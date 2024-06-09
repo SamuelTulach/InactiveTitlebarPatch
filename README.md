@@ -4,4 +4,4 @@
 
 **After:**
 
-![After screencap](/before.gif)
+![After screencap](/after.gif)
