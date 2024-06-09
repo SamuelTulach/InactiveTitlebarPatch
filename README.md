@@ -1,9 +1,5 @@
 **Before:**
-<p align="center">
-  <img src="before.gif" alt="Before screencap"/>
-</p>
+![Before screencap](/before.gif)
 
 **After:**
-<p align="center">
-  <img src="after.gif" alt="After screencap"/>
-</p>
+![After screencap](/before.gif)
